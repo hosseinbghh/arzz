@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MarketPrice" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/mp_bg</item>
+        <item name="android:statusBarColor">@color/mp_bg</item>
+        <item name="android:navigationBarColor">@color/mp_surface</item>
+        <item name="colorPrimary">@color/mp_primary</item>
+        <item name="colorSecondary">@color/mp_accent</item>
+    </style>
+</resources>

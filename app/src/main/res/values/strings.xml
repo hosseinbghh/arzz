@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مارکت پرایس</string>
+    <string name="offline_title">اتصال اینترنت برقرار نیست</string>
+    <string name="offline_message">لطفاً اتصال اینترنت خود را بررسی کرده و مجدداً تلاش کنید.</string>
+    <string name="ssl_error_title">خطای امنیتی SSL</string>
+    <string name="ssl_error_message">گواهی امنیتی سرور معتبر نیست. برای حفظ امنیت، بارگذاری متوقف شد.</string>
+    <string name="retry_button">تلاش مجدد</string>
+</resources>

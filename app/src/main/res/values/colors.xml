@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mp_bg">#101413</color>
+    <color name="mp_surface">#151C19</color>
+    <color name="mp_card">#1B2421</color>
+    <color name="mp_primary">#164B3F</color>
+    <color name="mp_accent">#36B58B</color>
+    <color name="mp_text">#F0F4F1</color>
+    <color name="mp_muted">#9BAAA2</color>
+</resources>
